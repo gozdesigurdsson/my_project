@@ -1,0 +1,3 @@
+turns = int(input("Integer: "))
+
+
